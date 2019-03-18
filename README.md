@@ -115,5 +115,8 @@ I categorize all RL papers accepted into following topics:
 - There a big less-explored space for RL on network architectures, considering the amount of papers on network architectures for vision problems. There are only few in the accepted papers. e.g. "Structured Control Nets for Deep Reinforcement Learning and Gated Path Planning Networks".
 - Fairness and Interpretability of ML is a big theme. There should be more work on interpretation and analysis for RL as well. One good direction is to use Control Theory. Relating this, Ben Recth’s Optimization for Control tutorial was excellent one. The main ideas were there should be more crossing-overs between RL and Control Theory. One excellent example in the accepted papers is "Structured Control Nets for Deep Reinforcement Learning".
 
+## Contributing
+Please feel free to create a Pull Request for adding papers of reinforcement learning papers at ICML.
+
 ## Support
 If you found this useful, please consider starring(★) the repo so that it can reach a broader audience.
